@@ -8,7 +8,7 @@ public class PingResource {
 	
 	@GET
 	public String get() {
-		return "Hello world!!!!";
+		return "Hello world!";
 	}
 
 }
